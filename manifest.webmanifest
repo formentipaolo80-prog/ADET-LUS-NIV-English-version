@@ -1,0 +1,26 @@
+{
+  "name": "AdET NIV \u2014 Ultrasound-guided manual",
+  "short_name": "AdET NIV",
+  "description": "English portable NIV companion: manual, videos, images, ABG, asynchronies and calculators.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F8FB",
+  "theme_color": "#073B73",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "en"
+}
